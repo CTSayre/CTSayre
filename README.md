@@ -11,7 +11,7 @@
 
 [<img align="left" alt="christian-sayre | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: www.linkedin.com/in/christian-sayre
+[linkedin]:https://www.linkedin.com/in/christiansayre/
 
 <!--
 
