@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Microsoft Azure HoneyPot </b>
-  - [HoneyPot](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [T-Pot HoneyPot]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/CTSayre/AzureHoneyPot/blob/main/README.md))
 
 
 
@@ -16,7 +16,7 @@
 [linkedin]: www.linkedin.com/in/christian-sayre
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
