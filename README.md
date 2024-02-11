@@ -4,7 +4,8 @@
 
 - <b>Microsoft Azure HoneyPot </b>
   - [T-Pot](https://github.com/CTSayre/AzureHoneyPot/blob/main/README.md)
-  - [Microsoft Sentinel with ChatGPT](https://github.com/CTSayre/MicrosoftSentinelSIEM/blob/main/README.md)
+- <b>Microsoft Sentinel with ChatGPT</b>
+    - [Azure Sentinel](https://github.com/CTSayre/MicrosoftSentinelSIEM/blob/main/README.md)
 
 
 
